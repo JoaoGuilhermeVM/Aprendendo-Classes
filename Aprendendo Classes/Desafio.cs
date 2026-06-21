@@ -18,3 +18,9 @@ namespace AprendendoClasses
     }
 }
 //No uso do InteliSense, a solução para um erro do codigo foi criar uma classe e colocar meu programa dentro dela, e depois criar um metodo para o programa, e depois chamar o metodo no Main, e depois usar o Console.WriteLine para mostrar o resultado.
+//Solução dado pela Microsoft Learn:
+//int firstValue = 500;
+//int secondValue = 600;
+//int largerValue;
+//largerValue = Math.Max(firstValue, secondValue);
+//Console.WriteLine(largerValue);
